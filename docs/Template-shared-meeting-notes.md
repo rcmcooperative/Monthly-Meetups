@@ -1,4 +1,4 @@
-# RCM Cooperative Monthly Meet-up (2026-09-15)
+# RCM Cooperative Monthly Meet-up (ADD DATE)
 
 ![RCM Cooperative Monthly Meeting banner](/assets/RCM-coop-MM-banner.png)
 
