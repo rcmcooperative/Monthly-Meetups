@@ -5,11 +5,11 @@
 
 ## About this Repository
 
-This repository contains the documentation, research materials, and outputs for the <project-name> project, a collaboration between <partner-names> and [RCM Cooperative](http://rcmcooperative.com/).
+This repository contains the documentation, research materials, and outputs for the Monthly Meetups, organised by the [RCM Cooperative](http://rcmcooperative.com/).
 
-This project follows open research principles to deliver FAIR and openly licensed materials. 
-Publication of these materials supports transparency in this project, and reproducibility of similar work. 
-All materials from the project are published as open as possible, as closed as necessary.
+This evvemt series follows open research principles to deliver FAIR and openly licensed materials. 
+Publication of these materials supports transparency in this event, and reproducibility of similar work. 
+All materials from the event are published as open as possible, as closed as necessary.
 
 This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
