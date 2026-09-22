@@ -3,6 +3,26 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/<github-org>/<repo-name>color=ee8449&style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+# RCM Cooperative Monthly Meetups!
+
+Our meetups are a place for those in formal and informal research community management roles, or anyone interested in research community work, to gather together to:
+* Build capacity by sharing skills, tools, or practices applied in community work;
+* Build a network of peers who can offer informal support, guidance, opportunities or resources relevant to community work;
+* Support professionalisation by strengthening our ability to describe or advocate for RCMs.
+
+Meetups started on 15 September 2026 with a presentation on about *'What is the RCM Cooperative and how to get involved* led by RCM Cooperatives Co-executive Directors, Dr. Cassandra Gould van Praag and Dr. Emma Karoune. The session of facilitated by Alexandra Araujo Alvarez. 
+
+Videos of all meetups can be found on our YouTube channel here: [RCM Cooperative YouTube channel](http://www.youtube.com/@RCMCooperative)
+
+## The Team
+
+- **Members:** <List of team members and their roles in the project.>
+- **Roles & Responsibilities:** <Outlines roles, responsibilities and their ways of working.>
+
+## Contact
+
+- **Reach Out:** <Contact details for questions, feedback, or ideas.>
+
 ## About this Repository
 
 This repository contains the documentation, research materials, and outputs for the Monthly Meetups, organised by the [RCM Cooperative](http://rcmcooperative.com/).
@@ -29,26 +49,6 @@ See Anthropic's guide to skills for more: https://docs.claude.com/en/docs/claude
 
 For RCM Cooperative-specific guidance on working with Claude (including this skill), see <mark>link to our "how we use AI" repo, once created</mark>.
 
-## Vision and Mission
-<See materials from [Community Pulse](https://www.communitypulse.io/50-metrics-kpis-and-okrs/) for more guidance on developing the vision and mission.>
-
-- **Vision:** <A short phrase describing the future you are ultimately working towards (your final destination or desired end state).>
-- **Mission:** <A one-sentence statement describing the reason your organization or program exists (what you do + who/what you do this for).>
-
-## About
-
-<Motivation and background in a nutshell.>
-
-## Roadmap & Milestones
-
-- **Goals:** <Clear overview of overarching and short-term goals.>
-- **Outcomes:** <Description of expected results and deliverables.>
-
-## The Team
-
-- **Members:** <List of team members and their roles in the project.>
-- **Roles & Responsibilities:** <Outlines roles, responsibilities and their ways of working.>
-
 ## Contributing
 
 - **Guidelines:** [Contribution Guidelines](CONTRIBUTING.md) for contributors.
@@ -62,10 +62,6 @@ This project is licensed under the CC-BY-4.0 License for documentation and an MI
 
 - **Citation Instructions:** <How to cite the project.>
 - **Acknowledgement:** <Recognising contributions by different members.>
-
-## Contact
-
-- **Reach Out:** <Contact details for questions, feedback, or ideas.>
 
 ## Contributors
 
