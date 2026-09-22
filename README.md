@@ -68,7 +68,12 @@ This project is licensed under the CC-BY-4.0 License for documentation and an MI
 ## Citing & Acknowledgement
 
 - **Citation Instructions:** <How to cite the project.>
-- **Acknowledgement:** <Recognising contributions by different members.>
+
+
+- **Acknowledgement:**
+We have received funding from [CHARTED’s Community Activities fund](https://drtp-skills.ac.uk/funds-community/) and the [DisCouRSE Flexible Fund (Round 2)](https://discourse-network.github.io/funding/round-2), delivered in partnership with the University of Southampton, the Software Sustainability Institute. 
+
+We are also grateful for in-kind contributions from [The Turing Way](https://book.the-turing-way.org/) and financial management by our fiscal host [OLS](https://we-are-ols.org/). 
 
 ## Contributors
 
