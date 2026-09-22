@@ -1,0 +1,10 @@
+# Provide a summary of changes made in this repository
+
+- Jul 5, 2026: Cassandra Gould van Praag created a Claude skill which populates the template repo, and changed the folder structure to be apprpriate for community projects. 
+- May 30, 2025: Cassandra Gould van Praag adapted this repo from https://github.com/the-turing-way/reproducible-project-template for a template for RCM Cooperative Partner interactions
+- Jan 23 2024: Instructions for how to use this repo were added, along with the template for README: https://github.com/the-turing-way/reproducible-project-template
+- Aug 31 2023: A copy of this template was added to the-turing-way GitHub organisation
+- Dec 10, 2022: By this date, five contributors including Hilmar Lapp from outside the team were added as contributors to this project.
+- May 13, 2022: Data Science project-related folders and file structure were added by Jennifer Ding.
+- Apr 14, 2022: The Open Research Community Management team worked together on the repository adding an issue template (Anne Lee Steele), and creating a directory structure for the project management files (Emma Karoune and Vicky Hellon)
+- Mar 29, 2022: The repository was set up by Malvika Sharan with a README file and a description of the project.
