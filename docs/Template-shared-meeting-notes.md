@@ -1,6 +1,6 @@
 # RCM Cooperative Monthly Meet-up (2026-09-15)
 
-![RCM Cooperative Monthly Meeting banner](/assests/RCM-coop-MM-banner.png)
+![RCM Cooperative Monthly Meeting banner](/assets/RCM-coop-MM-banner.png)
 
 # Theme title: [ADD Title]
 
