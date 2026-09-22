@@ -5,7 +5,7 @@
 
 # RCM Cooperative Monthly Meetups!
 
-![Our community](/assets/images/our community.jpg "Our community")
+![Our community](/assets/our community.jpg "Our community")
 
 Our meetups are a place for those in formal and informal research community management roles, or anyone interested in research community work, to gather together to:
 * Build capacity by sharing skills, tools, or practices applied in community work;
