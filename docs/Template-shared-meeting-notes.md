@@ -24,7 +24,10 @@
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 > 
 > **Guide to Markdown - https://www.markdownguide.org/getting-started/**
+>
 > **Markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/**
+
+**Read our Code of Conduct [here](https://github.com/rcmcooperative/Monthly-meetups/blob/main/CODE_OF_CONDUCT.md)**
 
 ## Attendees
 (Name / Pronouns (optional) / Primary affiliation / Email / Github) 
