@@ -28,7 +28,7 @@ Videos of all meetups can be found on our YouTube channel here: [RCM Cooperative
 
 ## Contact
 
-Please email [Cass](mailto:cassandra.gouldvanpraag@rcmcooperative.com) or [Emma](mailto:emma.karoune@rcmcooperative.com) if you are interested to give a presentation or help to faciltitate. 
+Please email [Cass](mailto:cassandra.gouldvanpraag@rcmcooperative.com) or [Emma](mailto:emma.karoune@rcmcooperative.com) if you are interested to give a presentation or help to facilitate. 
 
 ## About this Repository
 
