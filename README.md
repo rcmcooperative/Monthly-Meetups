@@ -12,7 +12,7 @@ Our meetups are a place for those in formal and informal research community mana
 * Build a network of peers who can offer informal support, guidance, opportunities or resources relevant to community work;
 * Support professionalisation by strengthening our ability to describe or advocate for RCMs.
 
-Meetups started on 15 September 2026 with a presentation on about *'What is the RCM Cooperative and how to get involved* led by RCM Cooperatives Co-executive Directors, Dr. Cassandra Gould van Praag and Dr. Emma Karoune. The session of facilitated by Alexandra Araujo Alvarez. 
+Meetups started on 15 September 2026 with a presentation on about *'What is the RCM Cooperative and how to get involved* led by RCM Cooperatives Co-executive Directors, Dr. Cassandra Gould van Praag and Dr. Emma Karoune. The session was facilitated by Alexandra Araujo Alvarez. 
 
 Videos of all meetups can be found on our YouTube channel here: [RCM Cooperative YouTube channel](http://www.youtube.com/@RCMCooperative)
 
