@@ -34,7 +34,7 @@ Please email [Cass](mailto:cassandra.gouldvanpraag@rcmcooperative.com) or [Emma]
 
 This repository contains the documentation, research materials, and outputs for the Monthly Meetups, organised by the [RCM Cooperative](http://rcmcooperative.com/).
 
-This evvemt series follows open research principles to deliver FAIR and openly licensed materials. 
+This event series follows open research principles to deliver FAIR and openly licensed materials. 
 Publication of these materials supports transparency in this event, and reproducibility of similar work. 
 All materials from the event are published as open as possible, as closed as necessary.
 
