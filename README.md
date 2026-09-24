@@ -1,6 +1,6 @@
 # RCM Cooperative Monthly Meetups!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -76,6 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#content-EKaroune" title="Content">🖋</a> <a href="#doc-EKaroune" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#content-cassgvp" title="Content">🖋</a> <a href="#doc-cassgvp" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AlexandraAAJ"><img src="https://avatars.githubusercontent.com/u/124181438?v=4?s=100" width="100px;" alt="Alexandra Araujo Alvarez"/><br /><sub><b>Alexandra Araujo Alvarez</b></sub></a><br /><a href="#content-AlexandraAAJ" title="Content">🖋</a> <a href="#doc-AlexandraAAJ" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
