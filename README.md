@@ -105,7 +105,7 @@ This repo includes:
 - [ ] A directory for assets (non-code supporting files such as images, diagrams, templates, and similar media) that are used in the projects documentation or output)
 - [ ] A directory for documentation
 - [ ] Directories for any research materials if appropriate for the project (ethics, data, analysis)
-- [ ] Ready to use [all-contributors](https://allcontributors.org/) bot (installed for the RCM Cooperative GitHub organisation)
+- [x] Ready to use [all-contributors](https://allcontributors.org/) bot (installed for the RCM Cooperative GitHub organisation)
 - [ ] Appropriate issue templates
 - [ ] Appropriate .gitignore file
 - [ ] Connect repo with Zenodo <mark>the order of these needs to be reviewed</mark>
