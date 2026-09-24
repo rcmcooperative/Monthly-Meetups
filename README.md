@@ -37,23 +37,9 @@ This event series follows open research principles to deliver FAIR and openly li
 Publication of these materials supports transparency in this event, and reproducibility of similar work. 
 All materials from the event are published as open as possible, as closed as necessary.
 
-This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
-
 Note after templating this directory, you may wish to create an additional directory called `private`. 
 Use this directory to enable files to be stored locally without being included in the main repo (this directory is excluded by the [.gitignore](~/.gitignore)). 
 This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
-
-### Using Claude to complete this template
-
-This repository includes a Claude Code skill, `populate-repo-template`, which helps populate the placeholder sections of this README (and related files) using project context from `CLAUDE.md`.
-
-To use it, you'll need Claude Code set up locally.
-See Anthropic's setup guide: https://docs.claude.com/en/docs/claude-code/overview
-
-Once set up, skills live in `.claude/skills/` and are invoked automatically when relevant, or directly via `/complete-repo-template-info`.
-See Anthropic's guide to skills for more: https://docs.claude.com/en/docs/claude-code/skills
-
-For RCM Cooperative-specific guidance on working with Claude (including this skill), see <mark>link to our "how we use AI" repo, once created</mark>.
 
 ## Contributing
 
@@ -74,6 +60,9 @@ This project is licensed under the CC-BY-4.0 License for documentation and an MI
 We have received funding from [CHARTED’s Community Activities fund](https://drtp-skills.ac.uk/funds-community/) and the [DisCouRSE Flexible Fund (Round 2)](https://discourse-network.github.io/funding/round-2), delivered in partnership with the University of Southampton, the Software Sustainability Institute. 
 
 We are also grateful for in-kind contributions from [The Turing Way](https://book.the-turing-way.org/) and financial management by our fiscal host [OLS](https://we-are-ols.org/). 
+
+This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+
 
 ## Contributors
 

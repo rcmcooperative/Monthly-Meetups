@@ -2,7 +2,7 @@
 
 Thank you for taking the time to contribute to this project. 🎉
 
-The **<project name>** repository is developed by the RCM Cooperative.
+The **Monthly Meetup** repository is developed by the RCM Cooperative.
 
 This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
@@ -46,7 +46,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 
 ## 📫 Contact
 
-For any organisation related queries or concerns, you can directly reach out to **<Contact name> by emailing [<email>](mailto:<email>)**.
+For any organisation related queries or concerns, you can directly reach out to **Emma Karoune by emailing [emma.karoune@rcmcooperative.com](mailto:emma.karoune@rcmcooperative.com)**.
 
 ## ♻️ License
 
