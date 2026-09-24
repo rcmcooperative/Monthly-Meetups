@@ -1,4 +1,22 @@
 {
   "projectName": "Monthly-Meetups",
-  "projectOwner": "rcmcooperative"
+  "projectOwner": "rcmcooperative",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "EKaroune",
+      "name": "Emma Karoune",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58147174?v=4",
+      "profile": "https://www.turing.ac.uk/people/research-associates/emma-karoune",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    }
+  ]
 }
