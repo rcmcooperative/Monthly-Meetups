@@ -136,6 +136,11 @@ This issue is for the event organisers to facilitate the planning of remote grou
 ## After the Call
 - [ ] Send a thank you email to the speakers - within 1 day
 - [ ] Write up note and chat summaries, add answers to any questions.
+- [ ] Archive materials in this repo:
+    - [ ] Slides
+    - [ ] Communications notices
+    - [ ] Facilitator briefing (links redacted)
+    - [ ] Collaborative notes (attendee contact information redacted; all comments reviewed and approved for public archiving)
 - [ ] Edit and publish call recording.
     - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
     - [ ] Upload the video on RCM Cooperative youtube - label and annotate well, and add the flyer as the video's front page
