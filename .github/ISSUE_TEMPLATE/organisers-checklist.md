@@ -1,7 +1,7 @@
 ---
-name: "Community Call Checklist"
-about: Community Call Planning Checklist
-title: "[COMMUNITY CALL]"
+name: "Monthly Meetup Planning Checklist"
+about: Monthly Meetup Planning Checklist
+title: 
 labels:
 assignees: ''
 
@@ -9,27 +9,34 @@ assignees: ''
 
 <!-- This template is based on The [Turing Way Fireside Chat Checklist](https://github.com/the-turing-way/the-turing-way/blob/main/.github/ISSUE_TEMPLATE/12_fireside_chat_checklist.md) -->
 
-**The upcoming Community Call is on YYYY-MM-DD, HH:MM (timezone)
+**The upcoming Monthly Meetup is on YYYY-MM-DD, HH:MM (timezone)**
 
 This issue is for the event organisers to facilitate the planning of remote group discussion of any format, also known as a "Community Call". **if you would like to attend or participate in this call, [please use this form to register: [add registration form link].** 
 
 ### Ways of working
-- [ ] Confirm the call organisers
+- [ ] Confirm the meetup organisers
+    - [ ] Speaker(s)
+    - [ ] Host
 - [ ] Confirm the agreed communication channels for organising
-- [ ] Document Purpose and objectives of the call
+- [ ] Document Purpose and objectives of the session
 - [ ] Confirm organiser roles and responsibilities
-- [ ] Confirm the agreed communication channels for organsier interactions, includeing in-call back channel
+- [ ] Confirm the agreed communication channels for organsier interactions, including in-call back channel
 - [ ] Document the decision-making process, including transparency and what information can be made public and what needs to remain private
-- [ ] Document collaboration tech-stack, including file storage, project management, materials preparations, online meeting tool
+- [ ] Confirm collaboration tech-stack, including file storage, project management, materials preparations, online meeting tool
+    - [ ] Online meeting tool: TTW Zoom
+    - [ ] Project Management: RCM Cooperative Google Drive
+    - [ ] File storage: RCM Cooperative internal Google drive
+    - [ ] Organiser and host chat: RCM Coop slack #monthly-meetup-organising
+    - [ ] Materials archive: mm repo and zenodo
 - [ ] Document meeting schedule, record of notes (inc meeting templates), allocation of actions, expectations for sync/async 
 - [ ] Document methods of conflict resolution
-- [ ] Document how feedback and learning about this event will be managed. Consider templating from [The Turing Way Bookdash feedback](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-feedback.html#ch-template-bookdash-feedback) or **one of Cass' feedback forms!**
+- [ ] Confirm suitibility of Standard MM feedback form
 - [ ] Decide if there is route for participants or other interested parties to contribute to organising, and develop appropriate mechanisms or call to facilitate leadership contributions (considder adding to the application form)
 - [ ] Set up a Facilitators Briefing doc, for quick access to all links and resources to be shared during the event **add a link to template**
 
 
-## Before the Call -- at least 6-8 weeks in advance
-- [ ] Decide call date and time. 
+## Before the session -- at least 6-8 weeks in advance
+- [ ] Decide date and time. 
 - [ ] Create online meeting room for the date and time required (for example using zoom). Consider the following potential requirements for a meeting room:
     - [ ] Waiting room
     - [ ] Co-host permissions
@@ -40,23 +47,23 @@ This issue is for the event organisers to facilitate the planning of remote grou
     - [ ] Integrated polling
     - [ ] Breakout rooms
 - [ ] Decide an appropriate format to meet the objectives of the call
-- [ ] Invite speakers and Chairs, including the following information:
+- [ ] Invite speakers and hosts, including the following information:
     - [ ] State explicitly this will be *remote*
-    - [ ] Length of presention required, and Q&A time
+    - [ ] Length of presentation required, and Q&A time
     - [ ] Suggested scope of presentation or discussion topics
     - [ ] Agreement for publishing and licencing presentation materials, including reports. Invite them to add their materials directly to zenodo if they are familiar
     - [ ] What support and facilitation will be provided by organisers before, during and after the event
-    - [ ] What compensation will be provided for their time
+    - [ ] Share details of compensation (honoraria amount and process)
 - [ ] On speaker acceptance
     - [ ] Send calendar hold for event
     - [ ] Send calendar hold for AV check: 15 minutes before the event on the same meeting link
-    - [ ] Confirm comms channels to discuss organisation (for example a private slack channel with all spakers and organisers)
+    - [ ] Confirm comms channels to discuss organisation (for example a private slack channel with all speakers and organisers)
     - [ ] Ask for bio and image (consider using the the [contributor-bio issue](./contributor-bio.md))
-    - [ ] Schedule a check in call/email 1 week before the Community Call to confirm arrangements (set reminders)
+    - [ ] Schedule a check in call/email 1 week before the session to confirm arrangements (set reminders)
     - [ ] Confirm that descriptions, images and bio will be used for promotional materials
     - [ ] Confirm how slides will be presented (for example speaker shares screen or upload to organisers)
 - [ ] Write a short description for online advertisement
-- [ ] Set up a participant Collaborative Notes space **add a link to template**
+- [ ] Set up a participant Collaborative Notes space
 - [ ] Add link to collaborative notes to calendar invite
 - [ ] Participant registration page - Document the following:
     - [ ] Tool used
@@ -81,24 +88,25 @@ This issue is for the event organisers to facilitate the planning of remote grou
     - [ ] Alt-text for image which can be posted in text
 - [ ] Confirm advertising comms channels, timelines (ideally 4 weeks in advance) and who will target what. Invite participants to share in their networks
 - [ ] Finalise the agenda
-- [ ] Develop pannel questions
-- [ ] Share panel questions with pannel members
+- [ ] Develop discussion questions
+- [ ] Share questions with speakers members
 - [ ] Confirm modes for participant interactions, for example polls, slido, Q&A, hands
 - [ ] Set up external resources, for example slido or miro boards
-- [ ] Confirm Chair responsibilities. May include:
+- [ ] Confirm Host responsibilities. May include:
     - [ ] Welcome
-    - [ ] House keeping, including Code of Conduct
+    - [ ] House-keeping, including Code of Conduct
+    - [ ] Icebreaker
     - [ ] Chairing questions
     - [ ] Introducing speakers
     - [ ] Monitoring backstage comms
 - [ ] Confirm backstage host responsibilities. May include:
-    - [ ] Admin of the online meeting room (for example admitting participants, muteing, managing breakouts)
+    - [ ] Admin of the online meeting room (for example admitting participants, muting, managing breakouts)
     - [ ] Sharing links
     - [ ] Monitoring participant chat and Q&A
     - [ ] Launching polls
-    - [ ] Taking notes (this could be a seperate person)
+    - [ ] Taking notes (this could be a separate person)
     - [ ] Monitoring backstage comms
-    - [ ] Removing participants in line with Code of Conduct proceedure (for example, written warning followed by blocking if behaviour percists)
+    - [ ] Removing participants in line with Code of Conduct procedure (for example, written warning followed by blocking if behaviour persists)
     - [ ] Encourage participation via questions, sign in on collaborative notes
     - [ ] Flagging chat comments to Chair
 
@@ -125,22 +133,16 @@ This issue is for the event organisers to facilitate the planning of remote grou
     - [ ] Share date for next call in this series
     - [ ] Invite contribution future to call leadership / topic suggestions
 
-<!-- ## After the Call
-<!-- Cass: this bit needs cleaning -->
-<!-- 
+## After the Call
 - [ ] Send a thank you email to the speakers - within 1 day
-- [ ] Write up note and chat summaries
-- [ ] 
-- [ ] Publish above summaries (for example on event website and zenodo entry for event)
-
-- [ ] Edit and publish call recording. Include 
-- [ ] Download the video from Zoom and edit the live transcription (proofread cc)
-- [ ] Upload the video on The Turing Way youtube - label and annotate well, and add the flyer as the video's front page
-- [ ] Share the published videos with the speakers
-- [ ] Summarise the session to add to The Turing Way -- invite someone from the community who could do that
-- [ ] Promote the video via Slack, Newsletter, Twitter
-- [ ] Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
-- [ ] Update the book chapter and templates if needed
-- [ ] Update the video link here and update the section for the upcoming Fireside chat
-- [ ] Add speakers to this GitHub repo using `all-contributions bot` for presentation
-- [ ] Close the planning issue as complete! --> -->
+- [ ] Write up note and chat summaries, add answers to any questions.
+- [ ] Edit and publish call recording.
+    - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
+    - [ ] Upload the video on RCM Cooperative youtube - label and annotate well, and add the flyer as the video's front page
+    - [ ] Share the published videos with the speakers
+- [ ] Publish above summaries and recording link in RCM Coop blog 
+- [ ] Circulate blog to people registered
+- [ ] Promote the blog via Slack, Newsletter, Twitter
+- [ ] Send a thank you email to registered participants sharing the blog and video and inviting any ideas and suggestions for improvement via a standard fee back form
+- [ ] Add speakers and hosts to this GitHub repo using `all-contributions bot` for presentation
+- [ ] Close the planning issue as complete!
