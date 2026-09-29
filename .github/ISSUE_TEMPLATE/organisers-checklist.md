@@ -123,12 +123,12 @@ The issue comments should be used to track additional decision detail.
 - [ ] Guide Host and speaker through Facilitators Briefing
 
 ### Host
-- [ ] Review Facilitator breifing and request and clarification where required 
+- [ ] Review Facilitators Briefing and request and clarification where required 
 
 ### Speaker
 - [ ] Incorporate any final amendments to slides
-- [ ] Review Facilitator breifing and request and clarification where required 
-- [ ] Add further materials links to Facilitator briefing
+- [ ] Review Facilitators Briefing and request and clarification where required 
+- [ ] Add further materials links to Facilitators Briefing
 
 # During the session
 ### Core member
@@ -180,7 +180,7 @@ The issue comments should be used to track additional decision detail.
 - [ ] Archive materials in this repo:
     - [ ] Slides
     - [ ] Communications notices
-    - [ ] Facilitator briefing (links redacted)
+    - [ ] Facilitators Briefing (links redacted)
     - [ ] Collaborative notes (attendee contact information redacted; all comments reviewed and approved for public archiving)
 - [ ] Edit and publish call recording
     - [ ] Download the video from Zoom and edit the live transcription (proofread CC)
