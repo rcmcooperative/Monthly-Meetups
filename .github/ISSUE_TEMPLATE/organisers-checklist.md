@@ -1,7 +1,7 @@
 ---
 name: "Monthly Meetup Planning Checklist"
 about: Monthly Meetup Planning Checklist
-title: 
+title: "[YYYY-MM]: [Topic] - Organisers Checklist"
 labels:
 assignees: ''
 
