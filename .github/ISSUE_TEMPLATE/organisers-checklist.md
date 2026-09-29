@@ -92,25 +92,31 @@ The issue comments should be used to track additional decision detail.
     - [ ] Downloadable calendar invite with call link
 - [ ] Internal comms
     - [ ] Set up and monitor slack channel, including adding/inviting Host and Speaker
+    - [ ] Set up materials drafting area in [Google Drive](https://drive.google.com/drive/folders/1-Csu4lPR5f5n5CPeOcw5We-dqOT2mDL9?usp=sharing) - new directory named [YYYY-MM]
+        - [ ] Give Host and Speaker access, ensuring this directory contains no confidential information
     - [ ] Host and note meetings with organisers, linking notes in this issue
     - [ ] Update Core members on progress and flagging any issues (typically in Monday Co-Working or adhoc as necessary)
     - [ ] Ensure use and update of this issue and documentation templates
-    - [ ] Set up a Facilitators Briefing doc, for quick access to all links and resources to be shared during the event ([template](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/docs/Template%20-%20RCM%20Cooperative%20Monthly%20Meetup%20facilitators%20briefing.odt)) on Google drive **Note TBD where these are storred. Currently under the funder for each session**, with links to:
+    - [ ] Set up a Facilitators Briefing doc, for quick access to all links and resources to be shared during the event (templates in [this repo](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/docs/_Template-Facilitators-Briefing.odt) and [google drive](https://docs.google.com/document/d/1rfZawofr6u94mZeY1UGaMxYa9KEV7D177o1R06WB6gc/edit?usp=drive_link) with links to:
         - [ ] Zoom registration
         - [ ] Slack join
         - [ ] Collab notes
         - [ ] COC
-        - [ ] Slides (or placeholder until published on Zenodo)
+        - [ ] Slides (Host and speaker)
         - [ ] Topic suggestion via this repo 'Monthly Meetup Suggestion' issue
+    - [ ] Set up Host Stage Manager Script for this session (templates in [this repo](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/docs/_Template-Host-Stage-Manager-Script.odt) and [google drive](https://docs.google.com/document/d/1ykc4kbxflwe8SY4ORb64yS2WJFVOh0TryXOtnBOHXMA/edit?usp=sharing)
 - [ ] External comms
     - [ ] Preparing and sharing public notices for slack (including relevant other workspaces), LinkedIn and email
         - [ ] 6 weeks before session
         - [ ] 3 weeks before session
     - [ ] Set up collaborative notes in RCM Coop Cryptdrive Team > monthly-meetups
+    - [ ] Set up open/close slides for this session (templates in [this repo](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/docs/_Template-RCM-coop-monthly-meetups-open-close.pptx) and [google drive](https://docs.google.com/presentation/d/1f9q-pOxJjAikN48blgwTEKr4nEPKtNcTKKiQfXfGT9s/edit?usp=drive_link)
 
 
 ### Host
 - [ ] Prepare icebreaker of agreed structure
+- [ ] Review and update open/close slides for this session [Core member to add link]:
+- [ ] Review and update Host Stage Manager Script for this session [Core member to add link]: 
 
 ### Speaker
 - [ ] Preparation of slides in a timely manner for review
