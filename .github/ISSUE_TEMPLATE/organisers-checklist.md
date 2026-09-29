@@ -215,9 +215,9 @@ The issue comments should be used to track additional decision detail.
 - [ ] Close this planning issue when complete!
 
 ### Host
-- [ ] Provide relevant information to Core member for the processing of honoraria
+- [ ] Submit honoraria claim as advised by Core member
 - [ ] Review blog post
 
 ### Speaker
-- [ ] Provide relevant information to Core member for the processing of honoraria
+- [ ] Submit honoraria claim as advised by Core member
 - [ ] Review blog post
