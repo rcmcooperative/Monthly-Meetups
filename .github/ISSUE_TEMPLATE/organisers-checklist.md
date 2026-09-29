@@ -17,10 +17,9 @@ This issue is for the event organisers to facilitate the planning of remote grou
 - [ ] Confirm the meetup organisers
     - [ ] Speaker(s)
     - [ ] Host
-- [ ] Confirm the agreed communication channels for organising
+- [ ] Create a new slack channel with speakers and hosts: #monthly-meetup-organising-[YYYY-MM]
 - [ ] Document Purpose and objectives of the session
 - [ ] Confirm organiser roles and responsibilities
-- [ ] Confirm the agreed communication channels for organsier interactions, including in-call back channel
 - [ ] Document the decision-making process, including transparency and what information can be made public and what needs to remain private
 - [ ] Confirm collaboration tech-stack, including file storage, project management, materials preparations, online meeting tool
     - [ ] Online meeting tool: TTW Zoom
@@ -30,7 +29,7 @@ This issue is for the event organisers to facilitate the planning of remote grou
     - [ ] Materials archive: mm repo and zenodo
 - [ ] Document meeting schedule, record of notes (inc meeting templates), allocation of actions, expectations for sync/async 
 - [ ] Document methods of conflict resolution
-- [ ] Confirm suitibility of Standard MM feedback form
+- [ ] Confirm suitability of Standard MM feedback form
 - [ ] Decide if there is route for participants or other interested parties to contribute to organising, and develop appropriate mechanisms or call to facilitate leadership contributions (considder adding to the application form)
 - [ ] Set up a Facilitators Briefing doc, for quick access to all links and resources to be shared during the event **add a link to template**
 
@@ -44,7 +43,10 @@ This issue is for the event organisers to facilitate the planning of remote grou
     - [ ] Translation
     - [ ] Chat
     - [ ] Q&A with up-voting
-    - [ ] Integrated polling
+    - [ ] Integrated polling: Mission test questions (Likert 1-5)
+        1. Building RCM capacity: This session has provided me with skills, tools, or practices I can apply in my own community work.
+        2. Building an RCM network: This session has connected me with others who can support my community work.
+        3. Facilitating the RCM ecosystem: This session has strengthened my ability to describe or advocate for RCMs as a professional role, to myself, my team, or my organisation.
     - [ ] Breakout rooms
 - [ ] Decide an appropriate format to meet the objectives of the call
 - [ ] Invite speakers and hosts, including the following information:
@@ -88,6 +90,7 @@ This issue is for the event organisers to facilitate the planning of remote grou
     - [ ] Alt-text for image which can be posted in text
 - [ ] Confirm advertising comms channels, timelines (ideally 4 weeks in advance) and who will target what. Invite participants to share in their networks
 - [ ] Finalise the agenda
+- [ ] Develop icebreaker activity: September - December 2026 = desk treasure hunt - colour, something written, texture/sound
 - [ ] Develop discussion questions
 - [ ] Share questions with speakers members
 - [ ] Confirm modes for participant interactions, for example polls, slido, Q&A, hands
