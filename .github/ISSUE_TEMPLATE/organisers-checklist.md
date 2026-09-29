@@ -69,7 +69,8 @@ The issue comments should be used to track additional decision detail.
 - [ ] Ensure Mission alignment in purpose and delivery design
 - [ ] Schedule session and preparatory meetings
 - [ ] Send calendar invites to Host and speaker with correct session call link **starting 15 min before the call opens**
-- [ ] Ensure Host and Speaker submit Bio via issue template
+- [ ] Ensure Host and Speaker submit Bio via issue template (if not already Core and on the rcmcooperative website)
+- [ ] Add Host, Speaker and Core member names to [honoraria spreadsheet for OLS](https://docs.google.com/spreadsheets/d/1DbrLYWSRwDVAXxEs_I0-HKgWyv0iTvViYFe9OIxloAU/edit?usp=sharing)
 - [ ] Zoom in call settings
     - [ ] Co-host assigned to Core member, Host and Speaker(s)
     - [ ] Waiting room
@@ -176,7 +177,11 @@ The issue comments should be used to track additional decision detail.
 # After the session
 ### Core member
 - [ ] Send a thank you email to the Host and Speaker(s) — within 1 day
-- [ ] Process Host and Speaker honoraria claims
+- [ ] Circulate process for honoraria claims to Host, Speaker and Core
+    - Submission form: https://openlifescience.civicrm.org/civicrm/honorarium
+    - Which OLS cohort is this task related to?: Other
+    - What task did you perform: RCM Co-op [Funding Source] [Host/Speaker]
+    - How many hours are you claiming payment for: blank
 - [ ] Event data processing
     - [ ] Download zoom registration information
     - [ ] Add registration information to CRM
@@ -206,6 +211,7 @@ The issue comments should be used to track additional decision detail.
     - [ ] Promote the blog via Slack and LinkedIn
 - [ ] Add speakers and hosts to this GitHub repo using `all-contributors` bot for presentation
 - [ ] Capture and document lessons learnt, including updates to documentation and this issue template
+- [ ] Archive the slack channel for this session
 - [ ] Close this planning issue when complete!
 
 ### Host
