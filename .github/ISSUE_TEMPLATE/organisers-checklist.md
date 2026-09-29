@@ -11,146 +11,201 @@ assignees: ''
 
 **The upcoming Monthly Meetup is on YYYY-MM-DD, HH:MM (timezone)**
 
-This issue is for the event organisers to facilitate the planning of remote group discussion of any format, also known as a "Community Call". **if you would like to attend or participate in this call, [please use this form to register: [add registration form link].** 
+This issue is for the event organisers to facilitate the planning RCM Cooperative Monthly Meetups. 
+The below items are standing decisions and others which need to be agreed by the organisers. 
+Items should be ticked once approved by the organisers, with relevant details added.
 
-### Ways of working
-- [ ] Confirm the meetup organisers
-    - [ ] Speaker(s)
-    - [ ] Host
-- [ ] Create a new slack channel with speakers and hosts: #monthly-meetup-organising-[YYYY-MM]
-- [ ] Document Purpose and objectives of the session
-- [ ] Confirm organiser roles and responsibilities
-- [ ] Document the decision-making process, including transparency and what information can be made public and what needs to remain private
-- [ ] Confirm collaboration tech-stack, including file storage, project management, materials preparations, online meeting tool
-    - [ ] Online meeting tool: TTW Zoom
-    - [ ] Project Management: RCM Cooperative Google Drive
-    - [ ] File storage: RCM Cooperative internal Google drive
-    - [ ] Organiser and host chat: RCM Coop slack #monthly-meetup-organising
-    - [ ] Materials archive: mm repo and zenodo
-- [ ] Document meeting schedule, record of notes (inc meeting templates), allocation of actions, expectations for sync/async 
-- [ ] Document methods of conflict resolution
-- [ ] Confirm suitability of Standard MM feedback form
-- [ ] Decide if there is route for participants or other interested parties to contribute to organising, and develop appropriate mechanisms or call to facilitate leadership contributions (considder adding to the application form)
-- [ ] Set up a Facilitators Briefing doc, for quick access to all links and resources to be shared during the event **add a link to template**
+The Core member, Host and Speaker each have specific delivery responsibilities as detailed, and each shold mark on this issue when they are complete. 
+The issue comments should be used to track additional decision detail. 
 
+**At a glance**: 
+- ***Core member*** is responsible for most of the planning and wrap-up work (topic scoping, established and normilising ways of working, comms, archiving); 
+- ***Host*** is responsible for most of the communications and administration during the session itself; 
+- ***Speaker*** has fewer checklist items, but is responsible for preparing and delivering high-quality session content.
 
-## Before the session -- at least 6-8 weeks in advance
-- [ ] Decide date and time. 
-- [ ] Create online meeting room for the date and time required (for example using zoom). Consider the following potential requirements for a meeting room:
-    - [ ] Waiting room
-    - [ ] Co-host permissions
-    - [ ] Live transcription
-    - [ ] Translation
-    - [ ] Chat
-    - [ ] Q&A with up-voting
-    - [ ] Integrated polling: Mission test questions (Likert 1-5)
-        1. Building RCM capacity: This session has provided me with skills, tools, or practices I can apply in my own community work.
-        2. Building an RCM network: This session has connected me with others who can support my community work.
-        3. Facilitating the RCM ecosystem: This session has strengthened my ability to describe or advocate for RCMs as a professional role, to myself, my team, or my organisation.
-    - [ ] Breakout rooms
-- [ ] Decide an appropriate format to meet the objectives of the call
-- [ ] Invite speakers and hosts, including the following information:
+# Session topic (8-12 weeks in advance)
+### Core member
+- [ ] Identifying and inviting Host and Speaker(s). Invite to include:
     - [ ] State explicitly this will be *remote*
-    - [ ] Length of presentation required, and Q&A time
+    - [ ] Length of presentation required (typically 20 min), and Q&A time
     - [ ] Suggested scope of presentation or discussion topics
-    - [ ] Agreement for publishing and licencing presentation materials, including reports. Invite them to add their materials directly to zenodo if they are familiar
-    - [ ] What support and facilitation will be provided by organisers before, during and after the event
-    - [ ] Share details of compensation (honoraria amount and process)
-- [ ] On speaker acceptance
-    - [ ] Send calendar hold for event
-    - [ ] Send calendar hold for AV check: 15 minutes before the event on the same meeting link
-    - [ ] Confirm comms channels to discuss organisation (for example a private slack channel with all speakers and organisers)
-    - [ ] Ask for bio and image (consider using the the [contributor-bio issue](./contributor-bio.md))
-    - [ ] Schedule a check in call/email 1 week before the session to confirm arrangements (set reminders)
-    - [ ] Confirm that descriptions, images and bio will be used for promotional materials
-    - [ ] Confirm how slides will be presented (for example speaker shares screen or upload to organisers)
-- [ ] Write a short description for online advertisement
-- [ ] Set up a participant Collaborative Notes space
-- [ ] Add link to collaborative notes to calendar invite
-- [ ] Participant registration page - Document the following:
-    - [ ] Tool used
-    - [ ] Tool account and co-host accounts
-    - [ ] Templates used
-    - [ ] Registration open and close dates
-- [ ] Participant registration page - Include the following:
-    - [ ] Event description (purpose/aims)
+    - [ ] Open licensing of materials and recording
+    - [ ] Highlight this repo for details of responsibilities 
+    - [ ] Share details of honoraria compensation
+    - [ ] Available or suggested session dates (3rd week of the month, Tuesday-Thursday, 13:00 UK)
+
+# Organiser Ways of Working (4-6 weeks in advance)
+## All per session
+- [ ] Set date and time 
+- [ ] Confirm the meetup organisers
+    - [ ] Core Member:
+    - [ ] Host:
+    - [ ] Speaker(s):
+- [ ] Purpose and objectives of this meetup:
+- [ ] Mission area addressed:
+    - [ ] **Building RCM capacity:** Providing skills, tools, or practices RCMs can apply in their own community work.
+    - [ ] **Building an RCM network:** Connecting RCMs with others who can support their community work.
+    - [ ] **Facilitating the RCM ecosystem:** Strengthening ability to describe or advocate for RCMs as a professional role.
+
+## Standing
+### All organisers
+- [ ] Collaborate to support each others delivery responsibilities
+- [ ] Communicate any issues or concerns in a timely manner
+- [ ] Joining minimum of 2 meetings:
+    1. Scoping and designing session 
+    2. Pre-meetup check in to review materials
+- [ ] Support conflict resolution by consensus and [COC](https://github.com/rcmcooperative/rcmcooperative.github.io/blob/main/CODE_OF_CONDUCT.md)
+- [ ] Agree to tech stack:
+    - [ ] Organiser internal comms: RCM Coop slack #mm-organising-[YYYY-MM], noting that this channel will be archived after the session.
+    - [ ] Project Management: This issue
+    - [ ] Materials drafting: RCM Cooperative Google Drive
+    - [ ] Materials archive:
+        - [ ] DOI materials with zenodo, and add to [RCM Cooperative Zenodo Community](https://zenodo.org/communities/rcmcooperative/records?q=&l=list&p=1&s=10&sort=newest)
+        - [ ] Applying CC-BY-4.0 license to slides, unless explicit and agreed reason to use otherwise
+    - [ ] Online meeting tool: TTW Zoom
+- [ ] Reposting of external comms
+
+### Core member
+- [ ] Ensure Mission alignment in purpose and delivery design
+- [ ] Schedule session and preparatory meetings
+- [ ] Send calendar invites to Host and speaker with correct session call link **starting 15 min before the call opens**
+- [ ] Ensure Host and Speaker submit Bio via issue template
+- [ ] Zoom in call settings
+    - [ ] Co-host assigned to Core member, Host and Speaker(s)
+    - [ ] Waiting room
+    - [ ] Live transcription
+    - [ ] Chat
+    - [ ] Breakout rooms
+    - [ ] Feedback poll (Likert 1–5):
+        1. **Building RCM capacity:** This session has provided me with skills, tools, or practices I can apply in my own community work.
+        2. **Building an RCM network:** This session has connected me with others who can support my community work.
+        3. **Facilitating the RCM ecosystem:** This session has strengthened my ability to describe or advocate for RCMs as a professional role, to myself, my team, or my organisation.
+- [ ] Zoom Registration page
+    - [ ] Registration open and close date
+    - [ ] Event date
+    - [ ] Event description (purpose/aims) 
     - [ ] Intended audience
-    - [ ] Speaker bios
+    - [ ] Speaker bio
     - [ ] Agenda
     - [ ] Community background
-    - [ ] How to get in touch with the organisers
-    - [ ] How to contribute to organising this or future events in the series
-    - [ ] Ability for participants to download a calendar invite
-    - [ ] Call link in calendar invite (with appropriate mechanisms to restrict access)
-- [ ] Create comms to invite registration. Include the following:
-    - [ ] Date, time, timezone
-    - [ ] Short description
-    - [ ] Registration link and deadline if applicable
-    - [ ] Above in a image flyer/poster format
-    - [ ] Alt-text for image which can be posted in text
-- [ ] Confirm advertising comms channels, timelines (ideally 4 weeks in advance) and who will target what. Invite participants to share in their networks
-- [ ] Finalise the agenda
-- [ ] Develop icebreaker activity: September - December 2026 = desk treasure hunt - colour, something written, texture/sound
-- [ ] Develop discussion questions
-- [ ] Share questions with speakers members
-- [ ] Confirm modes for participant interactions, for example polls, slido, Q&A, hands
-- [ ] Set up external resources, for example slido or miro boards
-- [ ] Confirm Host responsibilities. May include:
-    - [ ] Welcome
-    - [ ] House-keeping, including Code of Conduct
-    - [ ] Icebreaker
-    - [ ] Chairing questions
-    - [ ] Introducing speakers
-    - [ ] Monitoring backstage comms
-- [ ] Confirm backstage host responsibilities. May include:
-    - [ ] Admin of the online meeting room (for example admitting participants, muting, managing breakouts)
-    - [ ] Sharing links
-    - [ ] Monitoring participant chat and Q&A
-    - [ ] Launching polls
-    - [ ] Taking notes (this could be a separate person)
-    - [ ] Monitoring backstage comms
-    - [ ] Removing participants in line with Code of Conduct procedure (for example, written warning followed by blocking if behaviour persists)
-    - [ ] Encourage participation via questions, sign in on collaborative notes
-    - [ ] Flagging chat comments to Chair
+    - [ ] Core member contact email 
+    - [ ] Downloadable calendar invite with call link
+- [ ] Internal comms
+    - [ ] Set up and monitor slack channel, including adding/inviting Host and Speaker
+    - [ ] Host and note meetings with organisers, linking notes in this issue
+    - [ ] Update Core members on progress and flagging any issues (typically in Monday Co-Working or adhoc as necessary)
+    - [ ] Ensure use and update of this issue and documentation templates
+    - [ ] Set up a Facilitators Briefing doc, for quick access to all links and resources to be shared during the event ([template](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/docs/Template%20-%20RCM%20Cooperative%20Monthly%20Meetup%20facilitators%20briefing.odt)) on Google drive **Note TBD where these are storred. Currently under the funder for each session**, with links to:
+        - [ ] Zoom registration
+        - [ ] Slack join
+        - [ ] Collab notes
+        - [ ] COC
+        - [ ] Slides (or placeholder until published on Zenodo)
+        - [ ] Topic suggestion via this repo 'Monthly Meetup Suggestion' issue
+- [ ] External comms
+    - [ ] Preparing and sharing public notices for slack (including relevant other workspaces), LinkedIn and email
+        - [ ] 6 weeks before session
+        - [ ] 3 weeks before session
+    - [ ] Set up collaborative notes in RCM Coop Cryptdrive Team > monthly-meetups
 
-## During the session
-- [ ] Open the online meeting room 15 minutes in advance (keep the waiting room of Zoom enabled)
-- [ ] Test organiser and presenter AV: microphones, cameras, slides 
-- [ ] Start recording (suggest cloud recording to mitigate host loosing connection)
+
+### Host
+- [ ] Prepare icebreaker of agreed structure
+
+### Speaker
+- [ ] Preparation of slides in a timely manner for review
+- [ ] Include [RCM Cooperative logo](https://github.com/rcmcooperative/rcmcooperative.github.io/blob/main/assets/img/logo-sticker-tagline.png) in slides
+- [ ] Provide Bio via 'contributor bio' issue
+
+# Final preparations (1-2 weeks in advance)
+### Core member
+- [ ] Ensure Mission alignment in purpose and delivery design
+- [ ] Guide Host and speaker through Facilitators Briefing
+
+### Host
+- [ ] Review Facilitator breifing and request and clarification where required 
+
+### Speaker
+- [ ] Incorporate any final amendments to slides
+- [ ] Review Facilitator breifing and request and clarification where required 
+- [ ] Add further materials links to Facilitator briefing
+
+# During the session
+### Core member
+- [ ] Manage AV test with Host and Speaker
+- [ ] Start recording (suggest cloud recording to mitigate host losing connection)
 - [ ] Enable transcription
-- [ ] Admit participants in at the advertised start time 
-- [ ] Welcome them and share Etherpad
-- [ ] Housekeeping slide
-    - [ ] Code of Conduct
-    - [ ] Recording (camera on/off), and of which sections
-    - [ ] Hands/Q&A
-    - [ ] Dissemination of materials post-call
-    - [ ] Agenda
-- [ ] At 5 minutes past, begin formal welcome (recording will be edited to start here) 
-- [ ] Reshare resources and housekeeping
-- [ ] Hosts and speaker introductions
-- [ ] Chair presentations and questions, ensuring diverse voices
-- [ ] 10 minutes before advertise end time:
-    - [ ] Share / open feedback polls (preference for in-call feedback)
+- [ ] Admit participants at the advertised start time
+
+### Host
+- [ ] Open the call and Welcome attendees
+- [ ] House-keeping
+    - [ ] Code of Conduct 
+    - [ ] Recording and public archive notice
+    - [ ] Cryptdrive explainer
+    - [ ] Attendee communication preferences
+    - [ ] Communicate rout for future contribution by 'Suggestion' issue template
+- [ ] Share links
+    - [ ] Slack join
+    - [ ] COC
+    - [ ] Collab notes
+- [ ] Encourage participation via questions and collaborative notes
+- [ ] Run icebreaker
+- [ ] Introduce speaker
+- [ ] Spotlight speaker
+- [ ] Monitor backstage slack and zoom chat
+- [ ] Manage breakout rooms
+- [ ] Mute or remove attendees in line with COC
+- [ ] Chair questions
+- [ ] 10 minutes before advertised end time:
+    - [ ] Launch feedback polls 
     - [ ] Thank organisers and speakers
     - [ ] Share date for next call in this series
-    - [ ] Invite contribution future to call leadership / topic suggestions
+    - [ ] Invite contributions to future call leadership / topic suggestions (link the standing suggestion/volunteer issue template)
+- [ ] Close the call and thank attendees
 
-## After the Call
-- [ ] Send a thank you email to the speakers - within 1 day
-- [ ] Write up note and chat summaries, add answers to any questions.
+### Speaker
+- [ ] Share screen and present materials
+
+# After the session
+### Core member
+- [ ] Send a thank you email to the Host and Speaker(s) — within 1 day
+- [ ] Process Host and Speaker honoraria claims
+- [ ] Event data processing
+    - [ ] Download zoom registration information
+    - [ ] Add registration information to CRM
+    - [ ] Download and summarise zoom chat
+    - [ ] Review and summarise feedback poll results
+    - [ ] Review and summarise collab notes
 - [ ] Archive materials in this repo:
     - [ ] Slides
     - [ ] Communications notices
     - [ ] Facilitator briefing (links redacted)
     - [ ] Collaborative notes (attendee contact information redacted; all comments reviewed and approved for public archiving)
-- [ ] Edit and publish call recording.
-    - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
-    - [ ] Upload the video on RCM Cooperative youtube - label and annotate well, and add the flyer as the video's front page
+- [ ] Edit and publish call recording
+    - [ ] Download the video from Zoom and edit the live transcription (proofread CC)
+    - [ ] Upload the video to RCM Cooperative YouTube — label and annotate well, and add the flyer as the video's front page
     - [ ] Share the published videos with the speakers
-- [ ] Publish above summaries and recording link in RCM Coop blog 
-- [ ] Circulate blog to people registered
-- [ ] Promote the blog via Slack, Newsletter, Twitter
-- [ ] Send a thank you email to registered participants sharing the blog and video and inviting any ideas and suggestions for improvement via a standard fee back form
-- [ ] Add speakers and hosts to this GitHub repo using `all-contributions bot` for presentation
-- [ ] Close the planning issue as complete!
+- [ ] Prepare blog for public facing summary, including:
+    - [ ] Link to call recording
+    - [ ] Chat and collab notes summary
+    - [ ] Feedback poll summary
+    - [ ] Link to material archive on this repo
+    - [ ] Note of next session
+    - [ ] Invite suggestions for future sessions
+    - [ ] Circulate draft with Host and Speaker for comment
+    - [ ] Publish blog
+- [ ] External comms on blog
+    - [ ] Email registerd participants
+    - [ ] Promote the blog via Slack and LinkedIn
+- [ ] Add speakers and hosts to this GitHub repo using `all-contributors` bot for presentation
+- [ ] Capture and document lessons learnt, including updates to documentation and this issue template
+- [ ] Close this planning issue when complete!
+
+### Host
+- [ ] Provide relevant information to Core member for the processing of honoraria
+- [ ] Review blog post
+
+### Speaker
+- [ ] Provide relevant information to Core member for the processing of honoraria
+- [ ] Review blog post
