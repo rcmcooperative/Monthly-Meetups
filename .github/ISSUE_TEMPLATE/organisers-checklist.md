@@ -107,7 +107,7 @@ The issue comments should be used to track additional decision detail.
         - [ ] Topic suggestion via this repo 'Monthly Meetup Suggestion' issue
     - [ ] Set up Host Stage Manager Script for this session (templates in [this repo](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/docs/_Template-Host-Stage-Manager-Script.odt) and [google drive](https://docs.google.com/document/d/1ykc4kbxflwe8SY4ORb64yS2WJFVOh0TryXOtnBOHXMA/edit?usp=sharing)
 - [ ] External comms
-    - [ ] Preparing and sharing public notices for slack (including relevant other workspaces), LinkedIn and email
+    - [ ] Preparing and sharing public notices for slack (including relevant other workspaces), LinkedIn and email (templates in [Google drive](https://docs.google.com/document/d/1TmnoLZ0zs2RjbtaX9RGyGSTcAJKhCFlUreyDseoA3hk/edit?usp=drive_link) and [this repo](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/docs/_Template-comms-copy.odt))
         - [ ] 6 weeks before session
         - [ ] 3 weeks before session
     - [ ] Set up collaborative notes in RCM Coop Cryptdrive Team > monthly-meetups
