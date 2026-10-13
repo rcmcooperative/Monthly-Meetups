@@ -41,6 +41,7 @@ The issue comments should be used to track additional decision detail.
     - [ ] Core Member:
     - [ ] Host:
     - [ ] Speaker(s):
+- [ ] Add organisers to this repo (write access)
 - [ ] Purpose and objectives of this meetup:
 - [ ] Mission area addressed:
     - [ ] **Building RCM capacity:** Providing skills, tools, or practices RCMs can apply in their own community work.
