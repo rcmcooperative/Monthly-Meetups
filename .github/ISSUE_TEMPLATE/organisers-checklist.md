@@ -152,7 +152,7 @@ The issue comments should be used to track additional decision detail.
     - [ ] Recording and public archive notice
     - [ ] Cryptdrive explainer
     - [ ] Attendee communication preferences
-    - [ ] Communicate rout for future contribution by 'Suggestion' issue template
+    - [ ] Communicate route for future contribution by 'Suggestion' issue template
 - [ ] Share links
     - [ ] Slack join
     - [ ] COC
