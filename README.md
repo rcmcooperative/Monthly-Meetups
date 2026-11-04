@@ -1,6 +1,6 @@
 # RCM Cooperative Monthly Meetups!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://dannygarside.co.uk"><img src="https://avatars.githubusercontent.com/u/3739866?v=4?s=100" width="100px;" alt="Danny Garside"/><br /><sub><b>Danny Garside</b></sub></a><br /><a href="#doc-da5nsy" title="Documentation">📖</a> <a href="#talk-da5nsy" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mdonnay-ssi"><img src="https://avatars.githubusercontent.com/u/214476088?v=4?s=100" width="100px;" alt="Michael Donnay"/><br /><sub><b>Michael Donnay</b></sub></a><br /><a href="#talk-mdonnay-ssi" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/l-ballantyne"><img src="https://avatars.githubusercontent.com/u/128156586?v=4?s=100" width="100px;" alt="Lyndsey Ballantyne"/><br /><sub><b>Lyndsey Ballantyne</b></sub></a><br /><a href="#fundingFinding-l-ballantyne" title="Funding Finding">🔍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/OscarSeip"><img src="https://avatars.githubusercontent.com/u/47109641?v=4?s=100" width="100px;" alt="OscarSeip"/><br /><sub><b>OscarSeip</b></sub></a><br /><a href="#fundingFinding-OscarSeip" title="Funding Finding">🔍</a></td>
     </tr>
   </tbody>
 </table>
