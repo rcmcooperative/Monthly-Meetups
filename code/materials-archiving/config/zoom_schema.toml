@@ -1,0 +1,34 @@
+# Expected structure of the two Zoom exports, and how they are anonymised.
+#
+# The pipeline compares each export with this file before processing anything.
+# If Zoom changes its format, the run stops and shows what differs.
+# Update this file only after checking the new format by hand.
+
+[participants]
+# Zoom "meeting list details" export. Zoom repeats "Duration (minutes)":
+# the first is the meeting's, the second is the participant's.
+columns = [
+  "Topic", "Type", "ID", "Host name", "Host email", "Start time", "End time",
+  "Participants", "Duration (minutes)", "Total participant minutes", "Department",
+  "Group", "Source", "Unique viewers", "Max concurrent views", "Creation time",
+  "Name (original name)", "Email", "Join time", "Leave time", "Duration (minutes)",
+  "Guest", "Recording disclaimer response", "In waiting room",
+]
+time_format = "%m/%d/%Y %I:%M:%S %p"
+time_columns = ["Start time", "End time", "Join time", "Leave time"]
+allowed_types = ["Meeting"]
+
+# Participants are matched across sessions by this column (case-insensitive).
+person_key = "Email"
+name_column = "Name (original name)"
+# Removed from the output, in addition to the email (which is always removed) and "In waiting room".
+# Add "Host name" and "Host email" here to hide a shared host account.
+drop_columns = []
+
+[poll]
+overview_columns = ["Generate Time", "Meeting Topic", "Meeting/Webinar ID", "Actual Start Time"]
+launched_columns = ["#", "Poll Name", "Questions", "Responses"]
+# Every response table must start with these columns, followed by one or more question columns.
+response_prefix = ["#", "User Name", "Email Address", "Submitted Date and Time"]
+# Removed from every response table.
+drop_columns = ["User Name", "Email Address"]

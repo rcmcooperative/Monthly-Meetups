@@ -1,0 +1,67 @@
+# Redaction rules for materials-archiving.
+#
+# Principle: flag by default, allow by exception.
+# Every URL and email address that is not explicitly allowed below is flagged
+# with <redact></redact> for a person to review.
+# Regular expressions use single-quoted (literal) TOML strings.
+
+# Shown in the archived files in place of each confirmed redaction.
+placeholder = "`<redacted>`"
+
+[urls]
+# URLs left visible. An entry is a domain, optionally followed by a path prefix.
+# Subdomains match (www.rcmcooperative.com matches rcmcooperative.com).
+allow = [
+  "rcmcooperative.com",
+  "github.com/rcmcooperative",
+  "zenodo.org/records",
+  "markdownguide.org",
+]
+
+# URLs flagged even if an allow rule would match (regular expressions, case-insensitive).
+always_flag = [
+  'zoom\.(us|com)',
+  'docs\.google\.com/.+/edit',
+  'join\.slack\.com',
+  'cryptpad\.fr',
+  'yamm-track',
+  '[?&](pwd|token|tk)=',
+]
+
+# URLs allowed by position rather than by domain.
+# Document role -> headings; URLs in the bullet list directly under such a heading are allowed.
+# This covers the speaker's and host's own pages, which differ every month.
+[urls.role_allow]
+comms = ["Speaker", "Speakers", "Host", "Hosts"]
+
+[emails]
+# Any address at these domains is left visible, in every document.
+allow_domains = ["rcmcooperative.com"]
+# Headings under which the allowance above is switched off (so those addresses are flagged).
+# For example ["Attendees"] to keep the attendee roster free of all addresses.
+exempt_headings = []
+
+# Further patterns. `group` is the capture group to flag (0 = the whole match).
+[[patterns]]
+name = "zoom host key"
+regex = '(?i)\bhost key\b[^\n\d]{0,40}(\d{4,})'
+group = 1
+reason = "always-flag: Zoom host key"
+
+[[patterns]]
+name = "passcode or password"
+regex = '(?i)\b(?:passcode|password)\b[ \t]*[:=][ \t]*(\S+)'
+group = 1
+reason = "always-flag: passcode or password"
+
+[[patterns]]
+name = "CryptPad media tag"
+regex = '<media-tag[^>]*>(?:\s*</media-tag>)?'
+group = 0
+reason = "always-flag: embedded CryptPad media tag with key"
+
+[[patterns]]
+name = "crypto key attribute"
+regex = '(?i)data-crypto-key\s*=\s*"([^"]+)"'
+group = 1
+reason = "always-flag: encryption key"

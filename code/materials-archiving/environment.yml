@@ -1,0 +1,10 @@
+# Conda environment for materials-archiving.
+# Create:   conda env create -f code/materials-archiving/environment.yml
+# Activate: conda activate materials-archiving
+# The scripts use only the Python standard library; pandoc converts .docx files.
+name: materials-archiving
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pandoc>=3.1
