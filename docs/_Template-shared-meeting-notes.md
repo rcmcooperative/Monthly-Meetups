@@ -9,6 +9,7 @@
 - Do not include any confidential information or anything which could cause reputational harm. 
 - Information will be extracted from these notes to monitor our engagement and community needs.
 - Extracted information will be shared with administrators and leadership of RCM Cooperative.
+- We will create a public archive of these collaborative notes in https://github.com/rcmcooperative/Monthly-Meetups/. Your email address will be removed but name retainined. All notes will be reviewed for appropriate content before archiving, and redacted where necessary. 
 - Data will be stored in line with UK GDPR.
 
 ---

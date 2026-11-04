@@ -1,6 +1,6 @@
 # RCM Cooperative Monthly Meetups!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -74,9 +74,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#content-EKaroune" title="Content">🖋</a> <a href="#doc-EKaroune" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#content-cassgvp" title="Content">🖋</a> <a href="#doc-cassgvp" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#content-EKaroune" title="Content">🖋</a> <a href="#doc-EKaroune" title="Documentation">📖</a> <a href="#eventOrganizing-EKaroune" title="Event Organizing">📋</a> <a href="#fundingFinding-EKaroune" title="Funding Finding">🔍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#content-cassgvp" title="Content">🖋</a> <a href="#doc-cassgvp" title="Documentation">📖</a> <a href="#eventOrganizing-cassgvp" title="Event Organizing">📋</a> <a href="#fundingFinding-cassgvp" title="Funding Finding">🔍</a> <a href="#talk-cassgvp" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AlexandraAAJ"><img src="https://avatars.githubusercontent.com/u/124181438?v=4?s=100" width="100px;" alt="Alexandra Araujo Alvarez"/><br /><sub><b>Alexandra Araujo Alvarez</b></sub></a><br /><a href="#content-AlexandraAAJ" title="Content">🖋</a> <a href="#doc-AlexandraAAJ" title="Documentation">📖</a> <a href="#talk-AlexandraAAJ" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://dannygarside.co.uk"><img src="https://avatars.githubusercontent.com/u/3739866?v=4?s=100" width="100px;" alt="Danny Garside"/><br /><sub><b>Danny Garside</b></sub></a><br /><a href="#doc-da5nsy" title="Documentation">📖</a> <a href="#talk-da5nsy" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mdonnay-ssi"><img src="https://avatars.githubusercontent.com/u/214476088?v=4?s=100" width="100px;" alt="Michael Donnay"/><br /><sub><b>Michael Donnay</b></sub></a><br /><a href="#talk-mdonnay-ssi" title="Talks">📢</a></td>
     </tr>
   </tbody>
 </table>
@@ -105,7 +107,7 @@ This repo includes:
 - [ ] A directory for assets (non-code supporting files such as images, diagrams, templates, and similar media) that are used in the projects documentation or output)
 - [ ] A directory for documentation
 - [ ] Directories for any research materials if appropriate for the project (ethics, data, analysis)
-- [ ] Ready to use [all-contributors](https://allcontributors.org/) bot (installed for the RCM Cooperative GitHub organisation)
+- [x] Ready to use [all-contributors](https://allcontributors.org/) bot (installed for the RCM Cooperative GitHub organisation)
 - [ ] Appropriate issue templates
 - [ ] Appropriate .gitignore file
 - [ ] Connect repo with Zenodo <mark>the order of these needs to be reviewed</mark>

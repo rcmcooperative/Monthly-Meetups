@@ -15,7 +15,9 @@
       "profile": "https://www.turing.ac.uk/people/research-associates/emma-karoune",
       "contributions": [
         "content",
-        "doc"
+        "doc",
+        "eventOrganizing",
+        "fundingFinding"
       ]
     },
     {
@@ -25,7 +27,10 @@
       "profile": "https://github.com/cassgvp",
       "contributions": [
         "content",
-        "doc"
+        "doc",
+        "eventOrganizing",
+        "fundingFinding",
+        "talk"
       ]
     },
     {
@@ -36,6 +41,25 @@
       "contributions": [
         "content",
         "doc",
+        "talk"
+      ]
+    },
+    {
+      "login": "da5nsy",
+      "name": "Danny Garside",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3739866?v=4",
+      "profile": "http://dannygarside.co.uk",
+      "contributions": [
+        "doc",
+        "talk"
+      ]
+    },
+    {
+      "login": "mdonnay-ssi",
+      "name": "Michael Donnay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214476088?v=4",
+      "profile": "https://github.com/mdonnay-ssi",
+      "contributions": [
         "talk"
       ]
     }
