@@ -47,6 +47,15 @@
         "doc",
         "talk"
       ]
+    },
+    {
+      "login": "mdonnay-ssi",
+      "name": "Michael Donnay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214476088?v=4",
+      "profile": "https://github.com/mdonnay-ssi",
+      "contributions": [
+        "talk"
+      ]
     }
   ]
 }
