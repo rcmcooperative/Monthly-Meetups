@@ -64,6 +64,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "l-ballantyne",
+      "name": "Lyndsey Ballantyne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128156586?v=4",
+      "profile": "https://github.com/l-ballantyne",
+      "contributions": [
+        "fundingFinding"
+      ]
     }
   ]
 }
