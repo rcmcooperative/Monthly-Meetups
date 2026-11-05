@@ -1,0 +1,6 @@
+name: blog-recap
+channels:
+  - conda-forge
+dependencies:
+  # The pipeline uses only the Python standard library.
+  - python>=3.11
