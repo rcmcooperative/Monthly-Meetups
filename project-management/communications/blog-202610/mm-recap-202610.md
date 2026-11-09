@@ -6,43 +6,52 @@ alt: {{IMAGE_ALT}}
 excerpt: Our October session explored how origin stories help RCMs describe their work and build a shared professional identity.
 authors:
   - team: cassandra-gouldvanpraag
+  - team: emma-karoune
   - team: Danny-Garside
   - name: "Michael Donnay"
     url: https://www.software.ac.uk/our-people/michael-donnay
 ---
 
-On 21st October 2026, we hosted our October RCM Cooperative Monthly Meet-up.
+On 21st October 2026, we hosted our second RCM Cooperative Monthly Meet-up.
 42 people registered and 27 joined us live.
-This post summarises what we discussed including the common thread of arriving at the RCM role by accident, the question of how to make our work legible to outsiders, and an in-progress collective origin story for the RCM community.
+Here’s a summary of what we discussed, including the common thread of arriving at the RCM role by accident, the question of how we help others understand our work, and an in-progress collective origin story for the RCM community.
 
-This session was hosted by [Danny Garside](https://www.rcmcooperative.com/team/Danny-Garside/) and featured a presentation from [Michael Donnay](https://www.software.ac.uk/our-people/michael-donnay).
+Slight caveat that we are a group of people who get nerdy about organising events and facilitating discussions, so we’ll say a bit about what we did, but also get a little meta on why we did it that way, and what worked (/didn’t)!
 
-You can rewatch the [recording of the session here](https://www.youtube.com/watch?v=TdFsqSPH9vw&t=3s), with a summary of the discussion below.
+The session was hosted by [Danny Garside](https://www.rcmcooperative.com/team/Danny-Garside/) and featured a presentation from [Michael Donnay](https://www.software.ac.uk/our-people/michael-donnay).
+
+You can rewatch the [recording of the session here](https://www.youtube.com/watch?v=TdFsqSPH9vw&t=3s).
 
 # What happened
 
-Our objectives for the session were to use narratives, especially origin stories, to help RCMs describe what their job is to people who don't know it — building a shared identity internally and making RCM work legible to outsiders.
+Our objectives for the session were to explore how we can use narratives, especially origin stories, to help RCMs describe what their job is to people who don't know it — building a shared identity internally and making RCM work understandable to folks outside of this profession. 
 
-The session opened with an icebreaker in small groups. We include these icebreakers to give participants a chance to get to know other RCMs, and build the relationships which will support later breakout group co-working. 
+We kicked off the session with an icebreaker: in small groups we did a “desk treasure hunt”.  Danny really likes these - they give us all an opportunity to (optionally and consensually) share parts of us that aren’t often given space in professional environments, and allow us to connect more holistically, reminding ourselves and each other that we are more than faces (and cute backgrounds) in a zoom call. 
+They’re important moments to get to know other RCMs, and build the relationships which will support collaboration across the community. 
 
 Michael introduced the topic of narratives by sharing his own origin story, tracing an unexpected path that connected network analysis and theatrical production to community management.
-He framed this as an illustration of a central argument: that origin stories serve two purposes — they provide a foundation for a community to develop a shared identity, and they make that community legible to people outside it.
+
+He framed this as an illustration of a central argument: that origin stories serve two purposes — **they provide a foundation for a community to develop a shared identity, and they make that community legible to people outside it.**
 
 ## Exercise 1: Personal origin stories
 
 Participants broke into small groups, where one person shared how they came to work in research community management while the rest listened and took notes.
 Groups then reflected on what they had heard: what details stood out, whether they could identify inflection points in the story, and how their notes compared with one another's.
 
+![Zoom recording screenshot, with Michael Donnay introducing Exercise 1. Text reads: Exercise 1: Your personal origin story (10 minutes). Break into groups of four. One person will describe their RCM origin story(3-5 min), answering ‘How did you become/get interested in/find out about RCM?’ Everyone else will listen & take notes in a shared document. Next, reflect in your groups on how you received the story (5 min). What details stood out to you? Did you notice any specific inflection points? How did the notes differ between each notetaker?](/assets/img/blog/mm-202610-ex1.png)
+
 ## The role of narratives
 
-Michael developed the theoretical framing for the session, drawing on Benedict Anderson's *Imagined Communities* and community of practice theory.
+We then came back together, and Michael developed the theoretical framing for the session, drawing on Benedict Anderson's *Imagined Communities* and community of practice theory.
 He illustrated the argument using three different origin stories for the Digital Humanities field — the same field framed three distinct ways, each foregrounding different values and speaking to a different audience.
-He introduced the criteria for a good narrative: concise, easy to remember, written for an audience (often the educated non-expert), appropriately detailed, and offering an entrance into the community — a quality he called 'generous exclusion'.
+**He introduced the criteria for a good narrative: concise, easy to remember, written for an audience (often the educated non-expert), appropriately detailed, and offering an entrance into the community — a quality known as ['generous exclusion'](https://www.priyaparker.com/art-of-gathering-newsletter/why-the-more-is-not-always-the-merrier).**
 
 ## Exercise 2: The RCM origin story
 
-Groups returned to their small-group discussions to begin drafting a collaborative origin story for research community managers.
-The goal was not to find a single definitive story but to identify common themes and useful narratives to draw on when advocating for the RCM role.
+We sent groups back to their break-out rooms with the challenge of drafting a collaborative origin story for research community managers as a whole.
+The goal was not to find a single definitive story but to identify common themes and useful narratives for people to draw on when advocating for the RCM role in the future.
+
+![Zoom recording screenshot, with Michael Donnay introducing Exercise 2. Text reads: Exercise 2: The RCM origin story (10 minutes). Return to the same breakout groups. Working together, start drafting an origin story for research community managers. As you are writing, think about: What does it mean for the community if we emphasise different origins/activities? What values become more evident? Who are the audiences for this story?](/assets/img/blog/mm-202610-ex2.png)
 
 ## Findings from the session
 
@@ -68,18 +77,17 @@ Participants noted that the right framing depends on who you are speaking to: RS
 
 ### Our collective story
 
-Across the discussions, groups began drafting origin stories for the RCM community.
-The following is a synthesis built from fragments produced in the small groups — it is not something any single group wrote, and is offered here as a starting point for further collective work rather than a finished product.
+The following is a synthesis built from fragments of those origin stories — it is not something any single group wrote, and we offer it as a starting point for further collective work rather than a finished product.
 
 **For internal audiences and members of RCM Cooperative**
-*We stumbled into this work from different directions, and found both the name for what we do and the community that sustains it.*
+*Many of us stumbled into this work ‘by accident’ and everyone has their own path into community management. In the RCM role and the RCM Cooperative, we have found a professional identity and a community that sustains it.*
 
 >Most of us didn't plan to become Research Community Managers.
 >We were organising seminars, joining open science networks, managing communities on the side of other roles — doing the work before we had a word for it.
 >What brought us together was recognising that others were doing the same thing: navigating the same in-between spaces, filling the same gaps, without a shared framework or a place to compare notes.
 
 **For institutions, funders, senior researchers unfamiliar with the role.**
-*Research communities depend on work that happens in the spaces between people and ideas — and that work gets lost without someone to hold it and a profession to name it.*
+*Research communities depend on work that happens in the spaces between people and ideas. That work gets lost without someone able to focus on it and a profession to drive it forwards.*
 
 >There is essential work happening in the gaps of the research ecosystem: facilitating conversations, connecting people across boundaries, maintaining the conditions that make collaboration possible.
 >For a long time this work was informal, underfunded, and largely invisible — done on the side of other roles, or as voluntary labour.
@@ -88,33 +96,36 @@ The following is a synthesis built from fragments produced in the small groups �
 >Without professionalisation, the work — and everything it enables — gets lost at the boundary.
 
 **For RSEs and adjacent technical communities****
-*What brings us to this work is a shared instinct to care about how research communities function, not just what they produce. That instinct is the
-foundation of a recognisable profession.*
+*RCMs value the ‘hidden work’ that makes research possible and share an affinity with other research technical professionals for facilitating. RCMs might focus more on the social infrastructure, but hold similar values to technical research teams.*
 
 >Research Community Managers come from many backgrounds, but we tend to arrive by a similar route: at some point, we realised that what we most wanted to do was make the conditions for others' work better, not advance our own output.
->That instinct — caring more about facilitating than about our own research - is what unites us across different fields and organisations.
->We are not so different from technical resarch teams in what we value, only in where we direct it.
+>That instinct — caring more about facilitating than advancing our own research - is what unites us across different fields and organisations.
+>We are not so different from technical research teams in what we value, only in where we direct it.
 
-# What worked well
+Please use these, share these, and let us know if something resonates, or conversely: if you don’t see yourself represented here. These ideas, stories, and definitions will continue to evolve.
+
+# Reflecting on the session
+Organising these calls is a fairly new endeavour for us here at RCM Cooperative, and even if it wasn’t, we love to get nerdy about organising effective events and meetings. We couldn’t run an event like this without spending some time reflecting on what worked and where we might want to try something different.
+## What worked
 
 The feedback poll suggested the session was particularly effective at building professional identity and connecting participants with one another.
 Of the 18 people who responded, 83% agreed or strongly agreed that the session strengthened their ability to describe or advocate for RCMs as a professional role, 78% that it connected them with others who can support their community work, and 56% that it gave them skills, tools or practices to apply in their own community work.
 
-
-# Room to grow
+## Room to grow
 
 We definitely tried to fit a lot in this session - perhaps too much?! Only one group managed to work through the entire activity, but all groups produced some really valuable notes. 
 Every new exercise is an experiment, and this is one we'd be very pleased to refine and repeat! 
 
 We also had some really useful feedback about our icebreaker tasks and subsequent breakout groups. 
-When planning the session, we intentionally put people in different breakouts for the icebreaker and the exercises (two exercise tasks were completed in the same groups), because we wanted to give participants the chance to meet as many people as possible! 
-We're so pleased that one of the participants was able to give us honest feedback after the session that the regrouping was disruptive to the co-working - they had spent time getting to know people in the icebreaker, then had to start fresh in the co-working. 
-Facepalm moment for us! 
-We *know and preach that relationships are essential to collaboration*, and yet we missed the chance to apply this in the micro-collaboration of this session! 
-We were going for quantity of connections rather than quality, and on reflection, that is not the way we want to work. 
-Moving forward, we will think carefully about how we structure breakout groups, and where any co-working requires particular vulnerability or complexity, we will definitely design to support quality of relationships over quantity! 
+When planning the session, we intentionally put people in different breakouts for the icebreaker and the exercises (the two exercise tasks were completed in the same groups), because we wanted to give participants the chance to meet as many people as possible!
+We're so pleased that one participant was able to give us honest feedback after the session that the regrouping was disruptive to the co-creation exercises - they had spent time getting to know people in the icebreaker, then had to start fresh with a new group in the exercises. 
+Moving forward, we should all think carefully about how we structure breakout groups, especially where any co-working requires particular emotional vulnerability.
+There are trade-offs: making as many introductions as possible vs making the time and space for building connections where people can feel safe enough to share deeply.
 
-You can find a full archive of the session materials in our [public archive](https://github.com/rcmcooperative/Monthly-Meetups/tree/main/docs/materials-202610).
+# Links
+
+- You can find a full archive of the session materials in our [public archive](https://github.com/rcmcooperative/Monthly-Meetups/tree/main/docs/materials-202610).
+- You can rewatch the [recording of the session here](https://www.youtube.com/watch?v=TdFsqSPH9vw&t=3s)
 
 # Join us next time
 
