@@ -183,34 +183,39 @@ The issue comments should be used to track additional decision detail.
     - Which OLS cohort is this task related to?: Other
     - What task did you perform: RCM Co-op [Funding Source] [Host/Speaker]
     - How many hours are you claiming payment for: blank
-- [ ] Event data processing
-    - [ ] Download zoom registration information
-    - [ ] Add registration information to CRM
-    - [ ] Download and summarise zoom chat
-    - [ ] Review and summarise feedback poll results
-    - [ ] Review and summarise collab notes
-- [ ] Archive materials in this repo:
+- [ ] Download and event materials to this repo/private/materials-yyyydd
+    - [ ] zoom registration .csv
+    - [ ] zoom poll .csv
+    - [ ] Collab notes .md
+    - [ ] Facilitators breifing .docx
+    - [ ] comms-copy .docx
     - [ ] Slides
-    - [ ] Communications notices
-    - [ ] Facilitators Briefing (links redacted)
-    - [ ] Collaborative notes (attendee contact information redacted; all comments reviewed and approved for public archiving)
+- [ ] Archive event materials
+    - [ ] Run [materials archiving pipeline](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/code/materials-archiving/HOW_TO_USE.md)
+    - [ ] Push redacted materials to docs/materials-yyyymm
+    - [ ] Push slides to docs/materials-yyyymm
 - [ ] Edit and publish call recording
     - [ ] Download the video from Zoom and edit the live transcription (proofread CC)
     - [ ] Upload the video to RCM Cooperative YouTube — label and annotate well, and add the flyer as the video's front page
     - [ ] Share the published videos with the speakers
-- [ ] Prepare blog for public facing summary, including:
-    - [ ] Link to call recording
-    - [ ] Chat and collab notes summary
-    - [ ] Feedback poll summary
-    - [ ] Link to material archive on this repo
-    - [ ] Note of next session
-    - [ ] Invite suggestions for future sessions
-    - [ ] Circulate draft with Host and Speaker for comment
-    - [ ] Publish blog
+- [ ] Prepare materials for blog 
+    - [ ] Download zoom chat to private/materials-yyyymm
+    - [ ] Download zoom registrations to private/materials-yyyymm
+    - [ ] Get link to register for next session
+    - [ ] Get link to published call recording
+    - [ ] Get link to materials archive
+    - [ ] Image to use on blog
+ - [ ] Draft the blog
+    - [ ] Run [prepare blog pipeline](https://github.com/rcmcooperative/Monthly-Meetups/blob/main/code/blog-recap/HOW_TO_USE.md)
+    - [ ] Upload blog draft to [google drive / Monthly Meetup planning / YYYY-MM](https://drive.google.com/drive/folders/1-Csu4lPR5f5n5CPeOcw5We-dqOT2mDL9?usp=drive_link)
+    - [ ] Circulate with host and speaker
+    - [ ] Incorporate feedback
+    - [ ] Push blog to [website repo](https://github.com/rcmcooperative/rcmcooperative.github.io/tree/main/_blog)
 - [ ] External comms on blog
     - [ ] Email registerd participants
     - [ ] Promote the blog via Slack and LinkedIn
-- [ ] Add speakers and hosts to this GitHub repo using `all-contributors` bot for presentation
+- [ ] Update CRM with registered and attended lists (pipeline to follow)
+- [ ] Add speakers and hosts to this GitHub repo using `all-contributors` bot for talk
 - [ ] Capture and document lessons learnt, including updates to documentation and this issue template
 - [ ] Archive the slack channel for this session
 - [ ] Close this planning issue when complete!
