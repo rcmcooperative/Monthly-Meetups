@@ -1,20 +1,20 @@
 ---
 title: "RCM Origin Stories: Reflections from Our October Monthly Meet-up"
 date: 2026-11-05
-image: /assets/img/blog/mm-202610-{{IMAGE_SLUG}}.png
-alt: {{IMAGE_ALT}}
+image: /assets/img/blog/960px-Winding_path_(14354572446).jpg
+alt: "A gravel path winding gently through long grass, wildflowers and hedgerow towards a wooden footbridge, with the far end of the path softly out of focus. Photo by James Petts from London, England, CC BY-SA 2.0, via Wikimedia Commons."
 excerpt: Our October session explored how origin stories help RCMs describe their work and build a shared professional identity.
 authors:
   - team: cassandra-gouldvanpraag
-  - team: emma-karoune
   - team: Danny-Garside
+  - team: emma-karoune
   - name: "Michael Donnay"
     url: https://www.software.ac.uk/our-people/michael-donnay
 ---
 
 On 21st October 2026, we hosted our second RCM Cooperative Monthly Meet-up.
 42 people registered and 27 joined us live.
-Here’s a summary of what we discussed, including the common thread of arriving at the RCM role by accident, the question of how we help others understand our work, and an in-progress collective origin story for the RCM community.
+Here’s a summary of what we discussed, including the common thread of arriving at the RCM role by accident, the question of how we help others understand our work, and in-progress collective RCM origin stories for different audiences.
 
 Slight caveat that we are a group of people who get nerdy about organising events and facilitating discussions, so we’ll say a bit about what we did, but also get a little meta on why we did it that way, and what worked (/didn’t)!
 
@@ -79,33 +79,38 @@ Participants noted that the right framing depends on who you are speaking to: RS
 
 The following is a synthesis built from fragments of those origin stories — it is not something any single group wrote, and we offer it as a starting point for further collective work rather than a finished product.
 
-**For internal audiences and members of RCM Cooperative**
+**For internal audiences and members of RCM Cooperative:**
+
 *Many of us stumbled into this work ‘by accident’ and everyone has their own path into community management. In the RCM role and the RCM Cooperative, we have found a professional identity and a community that sustains it.*
 
->Most of us didn't plan to become Research Community Managers.
->We were organising seminars, joining open science networks, managing communities on the side of other roles — doing the work before we had a word for it.
->What brought us together was recognising that others were doing the same thing: navigating the same in-between spaces, filling the same gaps, without a shared framework or a place to compare notes.
+"Most of us didn't plan to become Research Community Managers.
+We were organising seminars, joining open science networks, managing communities on the side of other roles — doing the work before we had a word for it.
+What brought us together was recognising that others were doing the same thing: navigating the same in-between spaces, filling the same gaps, without a shared framework or a place to compare notes."
 
-**For institutions, funders, senior researchers unfamiliar with the role.**
+**For institutions, funders, senior researchers unfamiliar with the role:**
+
 *Research communities depend on work that happens in the spaces between people and ideas. That work gets lost without someone able to focus on it and a profession to drive it forwards.*
 
->There is essential work happening in the gaps of the research ecosystem: facilitating conversations, connecting people across boundaries, maintaining the conditions that make collaboration possible.
->For a long time this work was informal, underfunded, and largely invisible — done on the side of other roles, or as voluntary labour.
->Naming it 'Research Community Management' was not just a career hat. 
->This facilitation is real, valuable, and worth sustaining.
->Without professionalisation, the work — and everything it enables — gets lost at the boundary.
+"There is essential work happening in the gaps of the research ecosystem: facilitating conversations, connecting people across boundaries, maintaining the conditions that make collaboration possible.
+For a long time this work was informal, underfunded, and largely invisible — done on the side of other roles, or as voluntary labour.
+Naming it 'Research Community Management' was not just a career hat. 
+This facilitation is real, valuable, and worth sustaining.
+Without professionalisation, the work — and everything it enables — gets lost at the boundary."
 
-**For RSEs and adjacent technical communities****
-*RCMs value the ‘hidden work’ that makes research possible and share an affinity with other research technical professionals for facilitating. RCMs might focus more on the social infrastructure, but hold similar values to technical research teams.*
+**For RSEs and adjacent technical communities:**
 
->Research Community Managers come from many backgrounds, but we tend to arrive by a similar route: at some point, we realised that what we most wanted to do was make the conditions for others' work better, not advance our own output.
->That instinct — caring more about facilitating than advancing our own research - is what unites us across different fields and organisations.
->We are not so different from technical research teams in what we value, only in where we direct it.
+*RCMs value the ‘hidden work’ that makes research possible and share an affinity with other research technical professionals for facilitating. 
+RCMs might focus more on the social infrastructure, but hold similar values to technical research teams.*
 
-Please use these, share these, and let us know if something resonates, or conversely: if you don’t see yourself represented here. These ideas, stories, and definitions will continue to evolve.
+"Research Community Managers come from many backgrounds, but we tend to arrive by a similar route: at some point, we realised that what we most wanted to do was make the conditions for others' work better, not advance our own output.
+That instinct — caring more about facilitating than advancing our own research - is what unites us across different fields and organisations.
+We are not so different from technical research teams in what we value, only in where we direct it."
+
+**Please use and share these narratives! Let us know if something resonates, or conversely if you don’t see yourself represented here. These ideas, stories, and definitions will continue to evolve.**
 
 # Reflecting on the session
-Organising these calls is a fairly new endeavour for us here at RCM Cooperative, and even if it wasn’t, we love to get nerdy about organising effective events and meetings. We couldn’t run an event like this without spending some time reflecting on what worked and where we might want to try something different.
+These calls is a fairly new endeavour for RCM Cooperative, and we love to get nerdy about organising effective events and meetings, so we always spend some time reflecting on what worked and where we might want to try something different.
+
 ## What worked
 
 The feedback poll suggested the session was particularly effective at building professional identity and connecting participants with one another.
@@ -113,14 +118,15 @@ Of the 18 people who responded, 83% agreed or strongly agreed that the session s
 
 ## Room to grow
 
-We definitely tried to fit a lot in this session - perhaps too much?! Only one group managed to work through the entire activity, but all groups produced some really valuable notes. 
+We definitely tried to fit a lot in this session - perhaps too much?! 
+Only one group managed to work through both exercises to completion, but all groups produced some really valuable notes. 
 Every new exercise is an experiment, and this is one we'd be very pleased to refine and repeat! 
 
 We also had some really useful feedback about our icebreaker tasks and subsequent breakout groups. 
 When planning the session, we intentionally put people in different breakouts for the icebreaker and the exercises (the two exercise tasks were completed in the same groups), because we wanted to give participants the chance to meet as many people as possible!
 We're so pleased that one participant was able to give us honest feedback after the session that the regrouping was disruptive to the co-creation exercises - they had spent time getting to know people in the icebreaker, then had to start fresh with a new group in the exercises. 
-Moving forward, we should all think carefully about how we structure breakout groups, especially where any co-working requires particular emotional vulnerability.
-There are trade-offs: making as many introductions as possible vs making the time and space for building connections where people can feel safe enough to share deeply.
+Moving forward, we will think carefully about how we structure breakout groups, especially where any co-working requires particular emotional vulnerability.
+We should all work to balance the tread-off between making as many introductions as possible verses nurturing the relationships necessary for deep sharing.
 
 # Links
 
