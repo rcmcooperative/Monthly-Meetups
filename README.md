@@ -13,6 +13,8 @@ Our meetups are a place for those in formal and informal research community mana
 
 An introduction to our Monthly Meetups can be found in this [blog](https://www.rcmcooperative.com/blog/introducing-monthly-meetups/).
 
+To propose a session, submit an issue using the “Monthly Meetup Suggestion” [issue template](https://github.com/rcmcooperative/Monthly-Meetups/issues).
+
 Meetups started on 15 September 2026 with a presentation about *'What is the RCM Cooperative and how to get involved* led by RCM Cooperatives Co-executive Directors, Dr. Cassandra Gould van Praag and Dr. Emma Karoune. The session was facilitated by Alexandra Araujo Alvarez. 
 
 Videos of all meetups can be found on our YouTube channel here: [RCM Cooperative YouTube channel](http://www.youtube.com/@RCMCooperative)
